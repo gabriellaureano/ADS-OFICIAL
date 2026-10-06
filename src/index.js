@@ -1,3 +1,3 @@
 const nome = "Gabriel"
 
-console.log(`Ola ${nome}`)sisdgAIYSUGDAUYS
+console.log(`Ola ${nome}`)
