@@ -1,3 +1,3 @@
-const nome = "Gabriel"
+const nome = "Gabriel";
 
-console.log(`Ola ${nome}`)
+console.log(`Ola ${nome}`);
